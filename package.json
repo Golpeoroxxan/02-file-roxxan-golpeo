@@ -1,0 +1,11 @@
+{
+  "name": "file-system-roxxan-golpeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roxxan golpeo",
+  "license": "ISC"
+}
